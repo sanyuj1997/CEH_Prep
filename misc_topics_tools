@@ -1,0 +1,80 @@
+netcraft
+yesware
+bluejacking- bbproxy
+/etc/shadow - linux passwords
+SCP, SFTP and SSH - 22
+Internet Group Message Protocol (IGMP) - not on appl layer
+c1939538@urhen.com by -fuckthis skillset
+TCP Port 23 is used for Telnet, UDP 123 is NTP, TCP 22 is SSH, TCP 110 is POP3, TCP 443 is HTTPS, and TCP 445 is used for Common Internet File Service (CIFS),
+SafeSEH - canary code read??
+vishing - 
+whaling -
+phishing - 
+wardialing - 
+fuzzing - 
+X.25 - 
+X.419 - 
+X.509 - 
+running key cipher -
+caesar cipher - 
+[old:]
+[cache:]
+ISAKMP
+audit trails - detective 
+1. Enter nslookup at the command line.
+2. Type server <IPAddress>, using the IP address of the SOA. Press ENTER.
+3. Type set type=any and press ENTER.
+4. Type ls -d domainname.com,
+kismet - linux/macos used as ids. supports mon mode and 802.11n
+BeEF - browser exploitation 
+Blinding
+Cloaking
+Faking
+Metatype
+Hashing Systems
+Elongated Typefont
+Unicode
+PGP
+Transport, tunnel mode -ippsec
+IKE stands for [Internet Key Exchange]. IKE uses X.509 certificates for authentication and a Diffie–Hellman (D-H) key exchange
+X.509 - standard for all digital certs, key exchanges
+Pretty Good Privacy (PGP). Pretty good privacy is an email security application that uses IDEA algorithm for encryption and RSA algorithm for key distribution.
+The Point-to-Point Tunneling Protocol (PPTP) is a method for implementing virtual private networks. PPTP uses a control channel over TCP and a GRE tunnel operating to encapsulate PPP packets.
+SNScan- snmp
+NTP-udp123
+p0f – comprehensive passive TCP/IP stack fingerprintin
+Smurf attacks
+snmpwalk - legit tool for snmp communication
+onesixtyone- dictionary attacks on snmp
+Port 389 is designated for LDAP servers, and port 636 is designated for LDAP over SSL.
+Phone Phreaking is the activity of exploring phone systems and networks, looking for potential weaknesses. One who build the "blue boxes" is also correct 
+AirPcap
+WinFingerprint/ SuperScan /Hyena/ NetBios Enumm
+ClamAV
+Kon-Boot
+Nbtstat is a Windows program. In Linux, 'nmblookup' is used instead.
+Queso - os fingerprint
+
+Its a virtual database that contains descriptions of all of the objects in your network that use SNMP - Management Information Base MIB
+Because LDAP is based on a subset of standards in the X.500, it is also called X.500-lite.
+Port 161 is used to receive general messages, and port 162 is used to receive trap messages.-SNMP  SoftPerfect  Network scanner 
+Windows- smb shares
+unix - CIFS
+DriodSheep - steal cookies
+LDAPS- over ssl
+nbtstat.exe -n names -c local cache of remote machines -S session  table ans destination names -a name of remote server
+Arp-scan
+Nikto
+Ike-scan / vpn firewalls
+Angry IP
+The <00> NetBIOS code is associated with where you can retrieve a domain name.
+Active Directory Explorer
+LEX - ldap
+Jxplorer -ldap
+DumpSec
+DumpSec is not used for LDAP enumeration. DumpSec is a security auditing program for Microsoft Windows NT/XP/200x. It dumps the permissions (DACLs) and audit settings (SACLs) for the file system, registry, printers and shares in a concise, readable format, so that holes in system security are readily apparent.
+-sO - protocol scan
+-The <20> NetBIOS code is associated with where you can retrieve a server service that is running.
+The <03> NetBIOS code is associated with where you can retrieve the messenger service for a host computer.
+For monitoring step, "airmon-ng" ,and for sending deauthenticatation, he needs to use "aireplay-ng". Reference : Ethical Hacking and Countermeasures v9 .Module14 .page 692 Edited: It's aireplay-ng, not airplay-ng. aireplay-ng is a Linux command, aircrack-ng is a tool suite. Edit_2: So the answer should be aircrack-ng then? Needs be changed if true Edit_3: No it should not be the tool suite, because this question is asking "which TOOL does he need to use for deauthentication." Singularly speaking.
+how to use john
